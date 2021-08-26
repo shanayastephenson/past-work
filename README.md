@@ -1,3 +1,14 @@
+# Assignment 03 - On-disk Sort
+## Objectives
+
+For this assignment, you will:
+* Practice reading from and writing to files.
+* Practice using Java exceptions and try/catch statements
+* Practice using an Iterator to iterate over a collection of Strings
+* Implement a divide-and-conquer algorithm
+* Implement a sorting algorithm that works on disk
+
+
 # Extra credit Assignment 05 - Calculator
 ## Objectives
 
